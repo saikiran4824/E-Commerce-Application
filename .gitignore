@@ -41,5 +41,4 @@ postcss.config.js
 .eslintrc
 .prettierrc
 tsconfig.json
-package.json
 

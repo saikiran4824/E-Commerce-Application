@@ -1,5 +1,12 @@
 ### Ecommerce FullStack Application
+
+Listen Audio for better understanding
+
+https://github.com/user-attachments/assets/f75e5d8f-8bb6-4a15-a117-a8283342be01
+
+
 ---
+
 
 ## MongoDB: A Scalable NoSQL Database
 ---

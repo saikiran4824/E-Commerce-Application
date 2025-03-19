@@ -1,7 +1,9 @@
 import { Minus, Plus, Trash } from "lucide-react";
 import { useCartStore } from "../stores/useCartStore";
 
+// The CartItem component is used to display individual items in the shopping cart
 const CartItem = ({ item }) => {
+	// Extracting the actions to update quantity and remove items from the cart store
 	const { removeFromCart, updateQuantity } = useCartStore();
 
 	return (
